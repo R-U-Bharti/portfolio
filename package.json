@@ -1,5 +1,6 @@
 {
-  "name": "my-portfolio",
+  "homepage": "https://r-u-bharti.github.io/portfolio",
+  "name": "portfolio",
   "private": true,
   "version": "1.0.0",
   "type": "module",
